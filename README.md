@@ -1,4 +1,4 @@
-# Membuat TabBar Pada Flutter Menyerupai Aplikasi WhatsApp
+# Creating a Tab Bar in Flutter Resembles the WhatsApp Application
 
 ![whatsapp_tabview](https://user-images.githubusercontent.com/54461403/82184337-ad58e780-9911-11ea-8daa-735596b51820.gif)
 
